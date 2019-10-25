@@ -11,7 +11,11 @@ public class Product {
 		
 		int b=20;
 		
-	System.out.println(a+b);
+		int c=69;
+		
+		int d=50;
+		
+	System.out.println(c+d);
 	}
 
 }
