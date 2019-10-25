@@ -3,7 +3,15 @@ package warhouse;
 public class Product {
 
 	
-	private Integer PrdCode;
-	
-	private String prodName;
+	public static void main(String[] args) {
+		
+		
+		
+		int a=10;
+		
+		int b=20;
+		
+	System.out.println(a+b);
+	}
+
 }
