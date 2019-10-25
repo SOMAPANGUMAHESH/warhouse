@@ -10,4 +10,6 @@ public class Employee {
 	private Double empSal;
 	
 	private String vendor;
+	
+	private int hai;
 }
